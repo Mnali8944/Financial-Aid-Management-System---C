@@ -157,4 +157,5 @@ void joblist() {
             printf("\tInvalid Main category selection\n");
             break;
     }
+    printf();
 }
